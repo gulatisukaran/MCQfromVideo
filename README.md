@@ -1,8 +1,3 @@
-# React + Vite
+# MCQ Questions from Youtube videos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This application trasncribes a given youtube video using open ai whisper api and then uses gpt-3.5-turbo model to convert that to a list of multiple choice questions.
