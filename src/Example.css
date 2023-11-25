@@ -1,0 +1,43 @@
+
+.container {
+    background-color: #0e3956;
+    padding: 20px;
+    border-radius: 8px;
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .input-section {
+    color: #fff;
+  }
+  
+  .transStatus {
+    color: rgb(29, 197, 152);
+    
+  }
+  .result-section {
+    margin-top: 20px;
+    color: #f2e8e8;
+  }
+  
+  .file-input {
+    display: block;
+    margin-top: 20px;
+  }
+  
+  .submit-button {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #2ecc71;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .input {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
